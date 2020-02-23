@@ -1,0 +1,206 @@
+Конкуренты{
+    https://emojipedia.org/ {
+        for example emoji information - https://emojipedia.org/grinning-face/
+        unicode details for ↑ emoji   - https://emojipedia.org/emoji/😀/
+
+        footer details - https://emojipedia.org/emojipedia/
+        licensing      - https://emojipedia.org/licensing/
+        privacy-policy - https://emojipedia.org/privacy-policy/
+        statistics     - https://emojipedia.org/stats/
+        botmoji*(wtf)  - https://emojipedia.org/botmoji/
+
+        HypeStat information - https://hypestat.com/info/emojipedia.org
+
+        profitability [
+            emojipedia.org receives about 1,819,036 unique visitors and 5,711,772 (3.14 per visitor) page views per day which should earn about $35,776.83/day from advertising revenue. Estimated site value is $26,117,086.83. According to Alexa Traffic Rank emojipedia.org is ranked number 1,426 in the world and 0.0401% of global Internet users visit it. Site is hosted in San Francisco, CA, 94107, United States and links to network IP address 104.20.65.148. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    https://emojis.wiki/ {
+        HypeStat information - https://hypestat.com/info/emojis.wiki
+
+        profitability [
+            emojiisland.com receives about 30,846 unique visitors and 83,286 (2.70 per visitor) page views per day which should earn about $392.85/day from advertising revenue. Estimated site value is $286,781.36. According to Alexa Traffic Rank emojiisland.com is ranked number 99,004 in the world and 0.00068% of global Internet users visit it. Site is hosted in Ottawa, ON, K2P, Canada and links to network IP address 23.227.38.32. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    http://getemoji.com/ {
+        HypeStat information - https://hypestat.com/info/getemoji.com
+        
+        profitability [
+            getemoji.com receives about 943,540 unique visitors and 990,717 (1.05 per visitor) page views per day which should earn about $5,000.02/day from advertising revenue. Estimated site value is $3,650,013.74. According to Alexa Traffic Rank getemoji.com is ranked number 4,608 in the world and 0.0208% of global Internet users visit it. Site is hosted in San Francisco, CA, 94107, United States and links to network IP address 104.28.21.7. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    english : https://www.emojimeanings.net/ {
+        HypeStat information - https://hypestat.com/info/emojimeanings.net
+
+        german : Smileybedeutung.Com {
+            profitability [
+                smileybedeutung.com receives about 12,248 unique visitors and 15,922 (1.30 per visitor) page views per day which should earn about $76.90/day from advertising revenue. Estimated site value is $56,140.20. According to Alexa Traffic Rank smileybedeutung.com is ranked number 259,186 in the world and 0.00027% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 35.182.218.156. This server supports HTTPS and HTTP/2.
+            ]
+        }
+        nederlands : https://www.emojibetekenis.nl/ {
+            profitability [
+                emojibetekenis.nl receives about n/a unique visitors and n/a page views per day which should earn about n/a/day from advertising revenue. Estimated site value is n/a. According to Alexa Traffic Rank emojibetekenis.nl is ranked number 0 in the world and 0% of global Internet users visit it. Site is hosted in Germany and links to network IP address 85.13.162.22. This server supports HTTPS and HTTP/2.
+            ]
+        }
+        spanish : https://www.significadoemojis.es/ {
+            profitability [
+                significadoemojis.es receives about 8,165 unique visitors and 14,697 (1.80 per visitor) page views per day which should earn about $7.34/day from advertising revenue. Estimated site value is $5,357.38. According to Alexa Traffic Rank significadoemojis.es is ranked number 319,334 in the world and 0.00018% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 15.222.104.8. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        french : https://www.significationsmileys.fr/ {
+            profitability [
+                significationsmileys.fr receives about 3,175 unique visitors and 9,526 (3.00 per visitor) page views per day which should earn about $38.87/day from advertising revenue. Estimated site value is $28,372.60. According to Alexa Traffic Rank significationsmileys.fr is ranked number 621,986 in the world and 7.0E-5% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 35.182.22.17. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        italian : https://www.emoticonsignificato.it/ {
+            profitability [
+                emoticonsignificato.it receives about 4,536 unique visitors and 13,609 (3.00 per visitor) page views per day which should earn about $55.52/day from advertising revenue. Estimated site value is $40,532.29. According to Alexa Traffic Rank emoticonsignificato.it is ranked number 347,296 in the world and 0.0001% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 35.182.58.72. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        portuguese : https://www.emoticonsignificado.com.br/ {
+            profitability [
+                emoticonsignificado.com.br receives about 6,804 unique visitors and 11,567 (1.70 per visitor) page views per day which should earn about $20.19/day from advertising revenue. Estimated site value is $14,737.03. According to Alexa Traffic Rank emoticonsignificado.com.br is ranked number 375,428 in the world and 0.00015% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 35.182.58.72. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        polish : https://www.emotikonyznaczenie.pl/ {
+            profitability [
+                emotikonyznaczenie.pl receives about 1,361 unique visitors and 2,722 (2.00 per visitor) page views per day which should earn about $11.10/day from advertising revenue. Estimated site value is $8,106.46. According to Alexa Traffic Rank emotikonyznaczenie.pl is ranked number 1,173,565 in the world and 3.0E-5% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 15.222.104.8. This server supports HTTPS and HTTP/2.
+            ]
+        }
+        
+        russian : https://www.emojiworld.ru/ {
+            profitability [
+                emojiworld.ru receives about 2,676 unique visitors and 4,817 (1.80 per visitor) page views per day which should earn about $8.85/day from advertising revenue. Estimated site value is $6,459.36. According to Alexa Traffic Rank emojiworld.ru is ranked number 771,244 in the world and 5.9E-5% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 52.60.88.209. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        ukranian : https://www.emojiworld.com.ua/ {
+            profitability [
+                emojiworld.com.ua receives about n/a unique visitors and n/a page views per day which should earn about n/a/day from advertising revenue. Estimated site value is n/a. According to Alexa Traffic Rank emojiworld.com.ua is ranked number 0 in the world and 0% of global Internet users visit it. Site is hosted in Germany and links to network IP address 85.13.162.22. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        belarusian : https://www.emojiworld.bg/ {
+            profitability [
+                emojiworld.bg receives about n/a unique visitors and n/a page views per day which should earn about n/a/day from advertising revenue. Estimated site value is n/a. According to Alexa Traffic Rank emojiworld.bg is ranked number 0 in the world and 0% of global Internet users visit it. Site is hosted in Germany and links to network IP address 85.13.162.22. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        turkish : https://www.emojidunyasi.com/ {
+            profitability [
+                emojidunyasi.com receives about 4,446 unique visitors and 8,446 (1.90 per visitor) page views per day which should earn about $8.61/day from advertising revenue. Estimated site value is $6,284.02. According to Alexa Traffic Rank emojidunyasi.com is ranked number 511,077 in the world and 9.8E-5% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 15.222.104.8. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        indian : https://www.emojimeanings.in/ {
+            profitability [
+                emojimeanings.in receives about 454 unique visitors and 907 (2.00 per visitor) page views per day which should earn about $3.70/day from advertising revenue. Estimated site value is $2,702.15. According to Alexa Traffic Rank emojimeanings.in is ranked number 2,394,749 in the world and 1.0E-5% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 52.60.109.37. This server supports HTTPS and HTTP/2.
+            ]
+        }
+
+        profitability [
+            emojimeanings.net receives about 11,341 unique visitors and 20,413 (1.80 per visitor) page views per day which should earn about $15.19/day from advertising revenue. Estimated site value is $11,086.77. According to Alexa Traffic Rank emojimeanings.net is ranked number 248,265 in the world and 0.00025% of global Internet users visit it. Site is hosted in Montreal, Quebec, H3G, Canada and links to network IP address 52.60.127.78. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    https://iemoji.com/ {
+        information about one emoji  - https://www.iemoji.com/view/emoji/887/smileys-people/confused-face
+        emoji categories cheat sheet - https://www.iemoji.com/emoji-cheat-sheet
+
+        HypeStat information - https://hypestat.com/info/iemoji.com
+        
+        profitability [
+            iemoji.com receives about 108,870 unique visitors and 272,175 (2.50 per visitor) page views per day which should earn about $831.99/day from advertising revenue. Estimated site value is $607,354.54. According to Alexa Traffic Rank iemoji.com is ranked number 30,154 in the world and 0.0024% of global Internet users visit it. Site is hosted in Herndon, Virginia, 20172, United States and links to network IP address 64.34.215.210. This server supports HTTPS and doesn't support HTTP/2.
+        ]
+    }
+    https://fsymbols.com/ {
+        HypeStat information - https://hypestat.com/info/fsymbols.com
+
+        profitability [
+            fsymbols.com receives about 362,900 unique visitors and 471,770 (1.30 per visitor) page views per day which should earn about $1,780.23/day from advertising revenue. Estimated site value is $1,299,570.23. According to Alexa Traffic Rank fsymbols.com is ranked number 11,186 in the world and 0.008% of global Internet users visit it. Site is hosted in Chicago, IL, 60604, United States and links to network IP address 104.26.14.54. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    https://emojiisland.com/ {
+        HypeStat information - https://hypestat.com/info/emojiisland.com
+
+        profitability [
+            emojiisland.com receives about 30,846 unique visitors and 83,286 (2.70 per visitor) page views per day which should earn about $392.85/day from advertising revenue. Estimated site value is $286,781.36. According to Alexa Traffic Rank emojiisland.com is ranked number 99,004 in the world and 0.00068% of global Internet users visit it. Site is hosted in Ottawa, ON, K2P, Canada and links to network IP address 23.227.38.32. This server supports HTTPS and HTTP/2.
+        ]
+    }
+
+    https://discordemoji.com/ {
+        HypeStat information - https://hypestat.com/info/discordemoji.com
+
+        profitability [
+            discordemoji.com receives about 54,435 unique visitors and 299,392 (5.50 per visitor) page views per day which should earn about $1,251.93/day from advertising revenue. Estimated site value is $913,907.01. According to Alexa Traffic Rank discordemoji.com is ranked number 48,919 in the world and 0.0012% of global Internet users visit it. Site is hosted in United States and links to network IP address 104.24.98.149. This server supports HTTPS and HTTP/2.
+        ]
+    }
+    https://emoji-maker.com/ {
+        HypeStat information - https://hypestat.com/info/emoji-maker.com
+        
+
+        profitability [
+            emoji-maker.com receives about 5,443 unique visitors and 7,621 (1.40 per visitor) page views per day which should earn about $31.09/day from advertising revenue. Estimated site value is $22,698.08. According to Alexa Traffic Rank emoji-maker.com is ranked number 482,486 in the world and 0.00012% of global Internet users visit it. Site is hosted in Clifton, New Jersey, 07014, United States and links to network IP address 165.22.45.114. This server supports HTTPS and HTTP/2.
+        ]
+    }
+
+    https://openmoji.org/ {
+        HypeStat information - https://hypestat.com/info/openmoji.org
+
+        profitability [
+            openmoji.org receives about 3,765 unique visitors and 18,449 (4.90 per visitor) page views per day which should earn about $75.27/day from advertising revenue. Estimated site value is $54,948.32. According to Alexa Traffic Rank openmoji.org is ranked number 470,804 in the world and 8.3E-5% of global Internet users visit it. Site is hosted in North Rhine-Westphalia, Germany and links to network IP address 5.175.14.63. This server supports HTTPS and doesn't support HTTP/2.
+        ]
+    }
+}
+
+Доп. инструменты(сайты){
+    статистика всех смайликов - http://emojitracker.com/
+}
+
+Перевод текстов{
+    microsoft - https://azure.microsoft.com/ru-ru/pricing/details/cognitive-services/translator-text-api/
+    google    - https://cloud.google.com/translate
+    amazon    - https://aws.amazon.com/ru/translate/
+
+    prices[
+        microsoft :
+        google    :
+        amazon    :
+    ]
+
+    other API's (rapidapi) - https://rapidapi.com/collection/translation-apis
+}
+
+Emoji in different platforms/systems{
+    twitter - https://twemoji.twitter.com/
+    google  - https://www.google.com/get/noto/help/emoji/
+    github  - https://api.github.com/emojis + (third party preview - https://github-emoji-list.herokuapp.com)
+    ...
+}
+
+Github repos{
+    https://github.com/Surgo/aws_emojipacks
+    https://github.com/DPDmancul/Apple-Emoji
+    https://github.com/akfreas/emoji-extractor-plus
+    https://github.com/iamcal/emoji-data
+    https://github.com/VectorLogoZone/awesome-emoji
+    https://github.com/obskyr/takenoto
+    https://github.com/unicode-org/cldr/blob/master/common/properties/labels.txt
+    https://github.com/efremidze/Animoji
+    https://github.com/ikatyang/emoji-cheat-sheet
+    https://github.com/liguoqinjim/github_emoji
+
+    https://github.com/github/gemoji
+    https://github.com/github/gemoji/blob/master/db/emoji.json
+
+    https://github.com/onmyway133/emoji
+}
+
+Unicode informations{
+
+}
+
+Design ideas - https://www.pinterest.com/grymhin/emoji/
